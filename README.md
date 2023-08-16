@@ -5,7 +5,7 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">Glue Gunner FourthPath</h1>
+<h1 align="center">Banana Thrower</h1>
 
 This mod adds the Banana Thrower
 
