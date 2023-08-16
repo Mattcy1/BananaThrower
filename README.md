@@ -7,7 +7,7 @@
 
 <h1 align="center">Glue Gunner FourthPath</h1>
 
-This mod adds the Banana Throwser
+This mod adds the Banana Thrower
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/BananaThrower/total?label=Total%20Dowloads"></h1>
 
