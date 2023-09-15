@@ -6,7 +6,7 @@
         public const string Version = "1.1";
         public const string Name = "Banana Thrower";
         public const string Description =
-            "Hello today i added a banana Thrower also check out my youtube channel @MattcyYt with blue and orange icon thanks! Thanks To Thingy For The Idea";
+            "Hello today i added a banana Thrower Thanks To Thingy For The Idea";
 
         public const string RepoOwner = "Mattcy1";
         public const string RepoName = "Thingy-Tower";
